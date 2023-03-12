@@ -40,16 +40,16 @@ pip install -r requirements.txt
 ### **RNN stock value predictor**: 
 * **Rnn**. This project using a RNN model.
 
-![!RNN](https://github.com/gslmota/Autoencoders_with_python/blob/main/imgs/acoes.png)
+![!RNN](https://github.com/gslmota/Forecasting_models_using_recurrent_neural_networks/blob/main/imgs/acoes.png)
 
 
 ### **RNN open and bullish value predictor**: 
 * **Rnn**. This project using a RNN model.
 
-![!RNN](https://github.com/gslmota/Autoencoders_with_python/blob/main/imgs/acoescf.png)
+![!RNN](https://github.com/gslmota/Forecasting_models_using_recurrent_neural_networks/blob/main/imgs/acoescf.png)
 
 
 ### **RNN pollution forecaster**: 
 * **Rnn**. This project using a RNN model.
 
-![!RNN](https://github.com/gslmota/Autoencoders_with_python/blob/main/imgs/pol.png)
+![!RNN](https://github.com/gslmota/Forecasting_models_using_recurrent_neural_networks/blob/main/imgs/pol.png)
