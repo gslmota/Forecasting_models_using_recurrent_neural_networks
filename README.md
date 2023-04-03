@@ -53,3 +53,7 @@ pip install -r requirements.txt
 * **Rnn**. This project using a RNN model.
 
 ![!RNN](https://github.com/gslmota/Forecasting_models_using_recurrent_neural_networks/blob/main/imgs/pol.png)
+
+# References:
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/)
+
